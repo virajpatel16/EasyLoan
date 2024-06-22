@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/slapscreenbg"
+    android:orientation="vertical"
+    tools:context=".Fragment.AfforadalityFragment">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@drawable/slapscreenbg">
+
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/txt_back_emi"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:clickable="true"
+            android:drawableStart="@drawable/round_arrow_back_ios_24"
+            android:drawableTint="@color/white"
+            android:gravity="center"
+            android:textStyle="bold" />
+
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="@dimen/_200sdp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|left"
+            android:layout_marginHorizontal="@dimen/_40sdp"
+            android:text="Loan Affordability"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_15sdp"
+            android:textStyle="bold" />
+
+    </FrameLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_180sdp"
+        android:layout_marginTop="@dimen/_17sdp"
+        android:layout_margin="@dimen/_10sdp"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_180sdp"
+            android:layout_gravity="center"
+            android:elevation="@dimen/_10sdp"
+            app:cardCornerRadius="@dimen/_10sdp"
+            app:cardElevation="@dimen/_10sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/_6sdp"
+                    android:text="Affordable Amount :-"
+                    android:textSize="@dimen/_13sdp" />
+
+                <EditText
+                    android:id="@+id/edt_affordable_amount"
+                    android:layout_width="@dimen/_280sdp"
+                    android:layout_height="wrap_content"
+                    android:inputType="numberDecimal"
+                    android:layout_gravity="center"
+                    android:background="@drawable/black_border" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/_6sdp"
+                    android:text="Rate of Interested:-"
+                    android:textSize="@dimen/_13sdp" />
+
+                <EditText
+                    android:id="@+id/edt_rate_of_interest"
+                    android:layout_width="@dimen/_280sdp"
+                    android:layout_height="wrap_content"
+                    android:inputType="numberDecimal"
+                    android:layout_gravity="center"
+                    android:background="@drawable/black_border" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/_6sdp"
+                    android:text="Tenure for loan :-"
+                    android:textSize="@dimen/_13sdp" />
+
+                <EditText
+                    android:id="@+id/edt_tenure_for_loan"
+                    android:layout_width="@dimen/_280sdp"
+                    android:layout_height="wrap_content"
+                    android:inputType="numberDecimal"
+                    android:layout_gravity="center"
+                    android:background="@drawable/black_border" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_10sdp"
+        android:backgroundTint="@color/white"
+        android:elevation="@dimen/_10sdp"
+        app:cardCornerRadius="@dimen/_10sdp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/white"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                android:id="@+id/btn_emi_reset"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_margin="@dimen/_10sdp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/black"
+                android:elevation="@dimen/_10sdp"
+                android:padding="@dimen/_1sdp"
+                android:text="Reset"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_18sdp"
+                app:cornerRadius="@dimen/_10sdp" />
+
+            <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                android:id="@+id/btn_emi_calculate"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_margin="@dimen/_10sdp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/white"
+                android:elevation="@dimen/_10sdp"
+                android:padding="@dimen/_1sdp"
+                android:text="Calculate"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_18sdp"
+                app:cornerRadius="@dimen/_10sdp" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    <LinearLayout
+        android:id="@+id/result_layout_afforadality1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_10sdp"
+        android:orientation="vertical"
+      >
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_10sdp"
+            android:elevation="@dimen/_10sdp"
+            app:cardCornerRadius="@dimen/_10sdp"
+            android:visibility="gone"
+            app:cardElevation="@dimen/_10sdp">
+            <LinearLayout
+                android:id="@+id/result_layout_afforadality"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:background="@color/black"
+                android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@color/black"
+                android:layout_margin="@dimen/_10sdp"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/white"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/_13sdp"
+                    android:text="Maximum loan you afford :-"/>
+
+
+                <TextView
+                    android:id="@+id/txt_maximum_loan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="23"
+                    android:textColor="@color/white"
+                    android:focusable="false"
+                    android:gravity="right|center"
+                    android:layout_marginRight="@dimen/_7sdp"
+                    android:layout_gravity="right"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/_10sdp"
+                android:background="@color/black"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/white"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/_13sdp"
+                    android:text="Total amount you will pay :-"/>
+
+
+                <TextView
+                    android:id="@+id/txt_total_amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="23"
+                    android:textColor="@color/white"
+                    android:gravity="right|center"
+                    android:focusable="false"
+                    android:layout_marginRight="@dimen/_7sdp"
+                    android:layout_gravity="right"/>
+
+            </LinearLayout>
+                <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                    android:id="@+id/btn_sms"
+                    android:layout_width="@dimen/_200sdp"
+                    android:layout_height="@dimen/_35sdp"
+                    android:layout_margin="@dimen/_10sdp"
+                    android:layout_weight="1"
+                    android:backgroundTint="@color/selectedTextColor"
+                    android:elevation="@dimen/_10sdp"
+                    android:padding="@dimen/_1sdp"
+                    android:text="SMS"
+                    android:layout_gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_18sdp"
+                    app:cornerRadius="@dimen/_10sdp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</LinearLayout>

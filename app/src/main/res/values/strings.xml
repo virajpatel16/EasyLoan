@@ -1,0 +1,306 @@
+<resources>
+    <string name="app_name">Easyloan</string>
+    <string name="slaptext">EMI Calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="currency_format">%s $</string>
+
+    <string name="simple_interest_result">Simple Interest: %s</string>
+    <string name="principal_amount_result">Principal Amount: %s</string>
+    <string name="total_amount_result">Total Amount: %s</string>
+    <string name="original_price">Original Price: %s</string>
+    <string name="gst_amount">GST Amount: %s</string>
+    <string name="net_amount">Net Amount: %s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bankName_Allahabad">Allahabad Bank</string>
+    <string name="bankName_Andhra_Bank">Andhra Bank</string>
+    <string name="bankName_Axis_Bank">Axis Bank</string>
+    <string name="bankName_Bandhan_Bank">Bandhan Bank</string>
+    <string name="bankName_Bank_of_Baroda">Bank of Baroda</string>
+    <string name="bankName_Bank_of_India">Bank of India</string>
+    <string name="bankName_Bank_of_Maharashtra">Bank of Maharashtra</string>
+    <string name="bankName_Barclays_Bank">Barclays Bank</string>
+    <string name="bankName_Bharatiya_Mahila_Bank">Bharatiya Mahila Bank</string>
+    <string name="bankName_Canara_Bank">Canara Bank</string>
+    <string name="bankName_Corporation_Bank">Corporation Bank</string>
+    <string name="bankName_Citi_Bank">Citi Bank</string>
+    <string name="bankName_Dhanalaxmi_Bank">Dhanalaxmi Bank</string>
+    <string name="bankName_Deutsche_Bank">Deutsche Bank</string>
+    <string name="bankName_Federal_Bank">Federal Bank</string>
+    <string name="bankName_HDFC_Bank">HDFC Bank</string>
+    <string name="bankName_HSBC_Bank">HSBC Bank</string>
+    <string name="bankName_ICICI_Bank">ICICI Bank</string>
+    <string name="bankName_IDFC_Bank">IDFC Bank</string>
+    <string name="bankName_SBT_Bank">SBT Bank</string>
+    <string name="bankName_Indian_Overseas_Bank">Indian Overseas Bank</string>
+    <string name="bankName_IndusInd_Bank">IndusInd Bank</string>
+    <string name="bankName_Karnataka_Bank">Karnataka Bank</string>
+    <string name="bankName_Kotak_Mahindra_Bank">Kotak Mahindra Bank</string>
+    <string name="bankName_Citi_Union_Bank">Citi Union Bank</string>
+    <string name="bankName_Panjab_National_Bank">Panjab National Bank</string>
+    <string name="bankName_Punjab_and_Sind_Bank">Punjab &amp; Sind Bank</string>
+    <string name="bankName_Saraswat_Bank">Saraswat Bank</string>
+    <string name="bankName_South_Indian_Bank">South Indian Bank</string>
+    <string name="bankName_Standard_Chartered_Bank">Standard Chartered Bank</string>
+    <string name="bankName_State_Bank_of_India">State Bank of India</string>
+    <string name="bankName_Syndicate_Bank">Syndicate Bank</string>
+    <string name="bankName_UCO_Bank">UCO Bank</string>
+    <string name="bankName_Union_Bank_of_India">Union Bank of India</string>
+    <string name="bankName_United_Together_Bank">United Together Bank</string>
+    <string name="bankName_Vijaya_Bank">Vijaya Bank</string>
+
+    <string name="header_call_customer_care">Call Customer Care</string>
+    <string name="header_get_mini_statement">Get Mini Statement</string>
+    <string name="header_check_bank_balance">Check Bank Balance</string>
+
+
+    <string name="language_english">English</string>
+    <string name="language_german">German</string>
+    <string name="language_spanish">Spanish</string>
+    <string name="language_french">French</string>
+    <string name="language_hindi">Hindi</string>
+    <string name="language_italian">Italian</string>
+    <string name="language_korean">Korean</string>
+    <string name="language_malay">Malay</string>
+    <string name="language_polish">Polish</string>
+
+
+    <string name="home_1">Equated Monthly Instalment</string>
+    <string name="home_2">The EMI calculator helps you arrive at the right home loan amount that best fits your monthly budget, by helping you decide the loan EMI and tenure most suitable to your financial position</string>
+
+    <string name="privacy_policy"> <b>Privacy Policy</b>\n\n
+    <b>Last updated: March 20, 2024</b>\n\n
+    This Privacy Policy outlines the policies and practices regarding the collection, use, and disclosure of personal information when using our service. Your privacy rights and how we protect your information are described herein.\n\n
+    By utilizing our service, you consent to the collection and usage of your information as detailed in this Privacy Policy.\n\n
+    <b>Interpretation and Definitions</b>\n\n
+    <b>Interpretation</b>\n\n
+    Capitalized terms herein have meanings as defined under the following conditions. The definitions provided shall apply regardless of the number or form of the words.\n\n\n
+    <b>Definitions</b>\n\n
+
+    For the purposes of this Privacy Policy:\n\n
+    - "Account" signifies a unique account created for accessing our service or specific parts thereof.\n
+    - "Affiliate" refers to an entity controlling, controlled by, or under common control with us, where control implies ownership of 50% or more of the shares, equity interest, or other securities with voting rights.\n
+    - "Application" refers to the software program, namely, Emi Loan Calculator, provided by us.\n
+    - "Company," "We," "Us," or "Our" refers to Emi Loan Calculator.\n
+    - "Country" pertains to Gujarat, India, unless otherwise specified.\n
+    - "Device" denotes any device capable of accessing our service, such as a computer, mobile phone, or tablet.\n
+    - "Personal Data" encompasses any information relating to an identified or identifiable individual.\n
+    - "Service" pertains to the Emi Loan Calculator Application.\n
+
+    - "Service Provider" signifies any natural or legal entity processing data on our behalf. This may include third-party companies or individuals assisting us in providing, analyzing, or enhancing our service.\n
+    - "Usage Data" refers to data automatically collected, either generated by the use of the service or from the service infrastructure itself, including page visit duration, browser type, IP address, and device identifiers.\n
+    - "You" refers to the individual accessing or using our service, or the legal entity on whose behalf such individual accesses or uses the service.\n\n
+    <b>Collecting and Using Your Personal Data</b>\n\n
+    <b>Types of Data Collected</b>\n\n
+    <b>Personal Data</b>\n\n
+
+    While using our service, we may request certain personally identifiable information from you, which may include but is not limited to:\n
+    - Usage Data: Automatically collected data includes your device\'s IP address, browser type, pages visited, time spent on those pages, and other diagnostic data.\n
+    - Information collected from mobile devices: When accessing our service via a mobile device, we may collect device information such as type, unique ID, IP address, operating system, and mobile browser type.\n
+    - Browser Information: We may collect information that your browser sends whenever you visit our service.\n\n
+    <b>Information Collected while Using the Application</b>\n\n
+    When using our application, we may collect location information with your prior permission. This information is used to provide and enhance our service and may be stored on our servers or your device.\n
+    You have the option to enable or disable access to this information at any time through your device settings.\n\n
+    <b>Use of Your Personal Data</b>\n\n
+
+    We may use your personal data for the following purposes:\n
+    - Providing and maintaining our service, including monitoring service usage.\n
+    - Managing your account and registration as a user.\n
+    - Fulfilling contractual obligations, including purchase contracts for products or services.\n
+    - Contacting you via email, phone calls, SMS, or push notifications regarding updates or service-related communications.\n
+    - Providing news, special offers, and information about products or services, unless you opt-out.\n
+    - Managing your requests and inquiries.\n
+    - Evaluating or conducting business transfers such as mergers, acquisitions, or asset sales.\n
+    - Data analysis, identifying usage trends, and improving our service, products, and marketing efforts.\n\n
+    <b>Sharing of Your Personal Information</b>\n\n
+
+    We may share your personal information under the following circumstances:\n
+    - With service providers to analyze service usage or contact you.\n
+    - In business transfers, such as mergers or acquisitions.\n
+    - With affiliates, requiring them to adhere to this Privacy Policy.\n
+    - With business partners to offer you certain products, services, or promotions.\n
+    - With other users in public areas of the service.\n
+    - With your consent for any other purpose.\n\n\
+    <b>Retention of Your Personal Data</b>\n\n
+    We will retain your personal data only as long as necessary for the purposes outlined in this Privacy Policy. Usage Data may be retained for internal analysis, but only for periods required for security or service improvement purposes, or as mandated by law.\n\n
+    <b>Transfer of Your Personal Data</b>\n\n
+
+    Your personal data, including information collected, may be processed and maintained at our operating offices or other locations where parties involved in processing are situated. By providing your information, you consent to its transfer, including to jurisdictions where data protection laws may differ from those in your jurisdiction. We will take reasonable steps to ensure your data\'s security and compliance with this Privacy Policy.\n\n
+    <b>Delete Your Personal Data</b>\n\n
+    You have the right to request deletion of the personal data we have collected about you. You may update, amend, or delete your information by signing in to your account or contacting us. However, certain information may be retained to fulfill legal obligations or lawful bases.\n\n
+    <b>Disclosure of Your Personal Data</b>\n\n
+    We may disclose your personal data in the following circumstances:\n
+    - In business transactions, where personal data may be transferred.\n
+    - When required by law or valid requests by public authorities.\n
+    - To comply with legal obligations, protect our rights or property, investigate wrongdoing, ensure the safety of users or the public, or protect against legal liability.\n\n
+    <b>Security of Your Personal Data</b>\n\n
+
+    While we strive to use commercially acceptable means to protect your personal data, no method of transmission over the internet or electronic storage is entirely secure. We cannot guarantee absolute security, but we will take reasonable measures to protect your data.\n\n
+    <b>Children\'s Privacy</b>\n\n
+       Our service is not directed at individuals under the age of 13, and we do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and become aware that your child has provided personal data without your consent, please contact us, and we will take steps to remove such information from our servers. If consent from a parent is required under applicable law, we may request such consent before collecting and using the information from children.\n\n
+    <b>Links to Other Websites</b>\n\n
+    Our service may contain links to third-party websites not operated by us. We strongly advise you to review the privacy policies of every site you visit. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n\n
+    <b>Changes to this Privacy Policy</b>\n\n
+    We may update our Privacy Policy periodically. We will notify you of any changes by posting the updated Privacy Policy on this page. We may also inform you via email or through a notice on our service. It\'s recommended that you review this Privacy Policy periodically for any changes. Changes are effective when they are posted on this page.\n\n
+    If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.\n
+</string>
+
+    <string name="title_bank_services">Bank Services</string>
+    <string name="title_business_loan_calculator">Business Loan Calculator</string>
+    <string name="header_principal_amount">Principal Amount</string>
+    <string name="header_rate_of_interest">Rate of Interest (%)</string>
+    <string name="header_loan_term_in_year">Loan Term in Year</string>
+    <string name="header_monthly_emi">Monthly EMI :</string>
+    <string name="header_total_interest">Total Interest :</string>
+    <string name="header_total_payment">Total Payment</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="titile_compound_interest_calculator">Compound Interest Calculator</string>
+    <string name="header_period">Period</string>
+    <string name="header_compound_interest">Compound Interest :</string>
+    <string name="header_principal_amount1">Principal Amount :</string>
+    <string name="header_total_amount">Total Amount :</string>
+    <string name="title_emi_calculator">EMI Calculator</string>
+    <string name="title_fixed_deposit_calculator">Fixed Deposit Calculator</string>
+    <string name="header_deposit_amount">Deposit Amount</string>
+    <string name="title_period_of_deposit">Period of Deposit</string>
+    <string name="header_total_deposit">Total Deposit :</string>
+    <string name="header_total_interest_value">Total Interest Value :</string>
+    <string name="header_maturity_amount">Maturity Amount :</string>
+    <string name="title_gst_calculator">GST Calculator</string>
+    <string name="header_initial_amount">Initial Amount</string>
+    <string name="header_rate_of_gst">Rate of GST (%)</string>
+    <string name="header_add_gst">Add GST +</string>
+    <string name="header_subtract_gst">Subtract GST -</string>
+    <string name="header_net_amount">Net Amount :</string>
+    <string name="header_gst_amount">GST Amount :</string>
+    <string name="header_total_amount_gst_involves">Total Amount (GST Involves) :</string>
+    <string name="header_cgst">CGST :</string>
+    <string name="header_sgst">SGST :</string>
+    <string name="header_investment_amount">Investment Amount</string>
+    <string name="title_ppf_calculator">PPF Calculator</string>
+    <string name="header_period_in_month">Period in Month</string>
+    <string name="header_total_investment">Total Investment :</string>
+    <string name="title_recurring_deposit_calculator">Recurring Deposit Calculator</string>
+    <string name="header_period_of_deposit">Period of Deposit</string>
+    <string name="title_salary_calculator">Salary Calculator</string>
+    <string name="header_ctc_annual">CTC (Annual)</string>
+    <string name="header_bonus_included_ctc">Bonus Included CTC%</string>
+    <string name="header_monthly_salary">Monthly Salary :</string>
+    <string name="header_total_months">Total Months :</string>
+    <string name="header_total_salary_per_year">Total Salary Per Year :</string>
+    <string name="title_simple_interest_calculator">Simple Interest Calculator</string>
+    <string name="title_fd_ncalculator">FD \nCalculator</string>
+    <string name="title_rd_ncalculator">RD \nCalculator</string>
+    <string name="title_near_by_places">Near by Places</string>
+    <string name="title_insurance">Insurance</string>
+    <string name="title_bank_service">Bank Service</string>
+    <string name="header_health_insurance">Health Insurance</string>
+    <string name="header_motor_ninsurance">Motor \nInsurance</string>
+    <string name="header_home_ninsrance">Home \nInsrance</string>
+    <string name="header_fire_ninsurance">Fire \nInsurance</string>
+    <string name="header_travel_ninsurance">Travel \nInsurance</string>
+    <string name="header_property_insurance">Property Insurance</string>
+    <string name="header_term_life_insurance">Term Life Insurance</string>
+    <string name="header_whole_life_insurance">Whole Life Insurance</string>
+    <string name="header_endowment_plans">Endowment Plans</string>
+    <string name="header_unit_linked_insurance">Unit-Linked Insurance</string>
+    <string name="header_child_nplans">Child \nPlans</string>
+    <string name="header_pension_nplans">Pension \nPlans</string>
+    <string name="header_life_insurance">Life Insurance</string>
+    <string name="title_privacy_policy">Privacy Policy</string>
+    <string name="title_exit_this_app">Exit This App !!!</string>
+    <string name="app_name_emi_calculator">EMI Calculator</string>
+    <string name="header_are_you_sure_you_want_to_exit">Are You Sure You Want To Exit ?</string>
+    <string name="BTN_no">No</string>
+    <string name="BTN_yes">Yes</string>
+    <string name="title_setting">Settings</string>
+    <string name="header_language">Language</string>
+    <string name="header_select_language">Select Language</string>
+    <string name="header_select_language_for_app">Select Language For App</string>
+    <string name="header_general">General</string>
+    <string name="title_get_started">Get Started</string>
+    <string name="txt_share">Share</string>
+    <string name="txt_privacy">Privacy</string>
+    <string name="title_app_loan_emi_calculator">Loan EMI Calculator</string>
+    <string name="title_calculate_your_loan_emis_with_confidence">Calculate Your Loan EMIs with Confidence!</string>
+    <string name="txt_i_agree_with_terms_amp_conditions"><![CDATA[I agree with Terms & Conditions]]></string>
+    <string name="BTN_decline">Decline</string>
+    <string name="BTN_accept">Accept</string>
+
+    //banks
+
+
+    //places
+    <string name="placeName_Airport">Airport</string>
+    <string name="placeName_Amusement">Amusement</string>
+    <string name="placeName_Aquarium">Aquarium</string>
+    <string name="placeName_Art_Gallery">Art Gallery</string>
+    <string name="placeName_ATM">ATM</string>
+    <string name="placeName_Bakery">Bakery</string>
+    <string name="placeName_Bank">Bank</string>
+    <string name="placeName_Beauty_Salon">Beauty Salon</string>
+    <string name="placeName_Bicycle_Store">Bicycle Store</string>
+    <string name="placeName_Book_Store">Book Store</string>
+    <string name="placeName_Bowling_Alley">Bowling Alley</string>
+    <string name="placeName_Bus_Station">Bus Station</string>
+    <string name="placeName_Cafe">Cafe</string>
+    <string name="placeName_Car_Dealer">Car Dealer</string>
+    <string name="placeName_Car_Rental">Car Rental</string>
+    <string name="placeName_Car_Repair">Car Repair</string>
+    <string name="placeName_Car_Wash">Car Wash</string>
+    <string name="placeName_Cemetery">Cemetery</string>
+    <string name="placeName_Church">Church</string>
+    <string name="placeName_City_Hall">City Hall</string>
+    <string name="placeName_Clothing_Store">Clothing Store</string>
+    <string name="placeName_Convenience_Store">Convenience Store</string>
+    <string name="placeName_Court_House">Court House</string>
+    <string name="placeName_Doctor">Doctor</string>
+    <string name="placeName_Electrician">Electrician</string>
+    <string name="placeName_Electronic_Store">Electronic Store</string>
+    <string name="placeName_Embassy">Embassy</string>
+    <string name="placeName_Fire_Station">Fire Station</string>
+    <string name="placeName_Furniture_Store">Furniture Store</string>
+    <string name="placeName_Gas_Station">Gas Station</string>
+    <string name="placeName_Grocery_Store">Grocery Store</string>
+    <string name="placeName_Gym">Gym</string>
+    <string name="placeName_Hair_Salon">Hair Salon</string>
+    <string name="placeName_Hardware_Store">Hardware Store</string>
+    <string name="placeName_Hindu_Temple">Hindu Temple</string>
+    <string name="placeName_Home_Goods">Home Goods</string>
+    <string name="placeName_Hospital">Hospital</string>
+    <string name="placeName_Insurance_Agency">Insurance Agency</string>
+    <string name="placeName_Jewelry_Store">Jewelry Store</string>
+    <string name="placeName_Library">Library</string>
+    <string name="placeName_Local_Government_Office">Local Government Office</string>
+    <string name="placeName_Locksmith">Locksmith</string>
+    <string name="placeName_Meal_Delivery">Meal Delivery</string>
+    <string name="placeName_Museum">Museum</string>
+    <string name="placeName_Painter">Painter</string>
+    <string name="placeName_Parking">Parking</string>
+    <string name="placeName_Park">Park</string>
+    <string name="placeName_Pet_Store">Pet Store</string>
+    <string name="placeName_Petrol_Pump">Petrol Pump</string>
+    <string name="placeName_Pharmacy">Pharmacy</string>
+    <string name="placeName_Physiotherapist">Physiotherapist</string>
+    <string name="placeName_Plumber">Plumber</string>
+    <string name="placeName_Police">Police</string>
+    <string name="placeName_Real_Estate_Agency">Real Estate Agency</string>
+    <string name="placeName_Roofing_Control">Roofing Control</string>
+    <string name="placeName_RV_Park">RV Park</string>
+    <string name="placeName_School">School</string>
+    <string name="placeName_Shoe_Store">Shoe Store</string>
+    <string name="placeName_Shopping_Mall">Shopping Mall</string>
+    <string name="placeName_Stadium">Stadium</string>
+    <string name="placeName_Subway_Station">Subway Station</string>
+    <string name="placeName_Super_Market">Super Market</string>
+    <string name="placeName_Taxi_Stand">Taxi Stand</string>
+    <string name="placeName_Train_Station">Train Station</string>
+    <string name="placeName_Travel_Agency">Travel Agency</string>
+    <string name="placeName_Veterinary_Care">Veterinary Care</string>
+    <string name="placeName_Zoo">Zoo</string>
+
+    <string name="title_select_language">Select Language</string>
+    <string name="title_loan_emi_calculator">Loan EMI Calculator</string>
+
+
+</resources>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="period_options">
+        <item>Years</item>
+        <item>Months</item>
+    </string-array>
+
+<!--    <string-array name="insurance_titles">-->
+<!--        <item>Health Insurance</item>-->
+<!--        <item>Motor Insurance</item>-->
+<!--        <item>Home Insurance</item>-->
+<!--        <item>Fire Insurance</item>-->
+<!--        <item>Travel Insurance</item>-->
+<!--        <item>Property Insurance</item>-->
+<!--        <item>Term Life Insurance</item>-->
+<!--        <item>Whole Life Insurance</item>-->
+<!--        <item>Endowment Plans</item>-->
+<!--        <item>Unit-Linked Insurance</item>-->
+<!--        <item>Child Plans</item>-->
+<!--        <item>Pension Plans</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="insurance">-->
+<!--&lt;!&ndash;        <item name="health_insurance">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Health insurance is a type of insurance coverage that pays for medical, surgical, and sometimes dental expenses incurred by the insured. It can reimburse the insured for expenses incurred from illness or injury or pay the care provider directly.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about health insurance:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Types of Health Insurance:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Private Health Insurance: Offered by private insurance companies and can be purchased on an individual basis or provided through an employer.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Public Health Insurance: Provided by the government and includes programs like Medicare (for seniors), Medicaid (for low-income individuals), and the Children\'s Health Insurance Program (CHIP).&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Coverage:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Health insurance typically covers medical expenses related to hospitalization, surgeries, doctor visits, prescription drugs, and preventive care.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Some plans may also cover dental care, vision care, mental health services, and alternative therapies.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Premiums and Deductibles:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Premiums are the amount you pay for your health insurance coverage, usually on a monthly basis.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Deductibles are the amount you have to pay out of pocket for medical expenses before your insurance coverage kicks in.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Networks:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Health insurance plans often have networks of doctors, hospitals, and other healthcare providers.&ndash;&gt;-->
+<!--&lt;!&ndash;            - In-network providers have negotiated rates with the insurance company, resulting in lower out-of-pocket costs for policyholders.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Types of Plans:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Health Maintenance Organization (HMO): Requires members to choose a primary care physician and get referrals to see specialists.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Preferred Provider Organization (PPO): Offers more flexibility in choosing healthcare providers but may have higher premiums and out-of-pocket costs.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Exclusive Provider Organization (EPO): Similar to PPOs but usually doesn't cover out-of-network care except in emergencies.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Point of Service (POS): Combines features of HMOs and PPOs, allowing members to choose in-network or out-of-network care.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Provides financial protection against high medical expenses.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Encourages preventive care, which can help detect and treat health issues early.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Offers peace of mind knowing that you have coverage in case of unexpected medical emergencies.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            It's essential to carefully review the terms and coverage of any health insurance plan before enrolling to ensure it meets your needs and budget. Additionally, staying informed about changes in healthcare laws and regulations can help you make informed decisions about your health insurance coverage.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="motor_insurance">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Motor insurance, also known as auto insurance or car insurance, provides financial protection against physical damage or bodily injury resulting from traffic collisions and against liability that could also arise from incidents in a vehicle.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about motor insurance:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Types of Coverage:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Third-Party Liability: Covers damages to the property of others and medical expenses for others in an accident where you are at fault.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Comprehensive Coverage: Provides coverage for damages to your own vehicle, as well as third-party liability coverage.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Collision Coverage: Covers damages to your own vehicle resulting from a collision with another vehicle or object.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Personal Injury Protection (PIP): Covers medical expenses and lost wages for you and your passengers regardless of fault.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Uninsured/Underinsured Motorist Coverage: Protects you if you're involved in an accident with a driver who doesn't have insurance or has insufficient coverage.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Factors Affecting Premiums:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Vehicle make and model&ndash;&gt;-->
+<!--&lt;!&ndash;            - Driver's age, gender, and driving history&ndash;&gt;-->
+<!--&lt;!&ndash;            - Location&ndash;&gt;-->
+<!--&lt;!&ndash;            - Deductible amount&ndash;&gt;-->
+<!--&lt;!&ndash;            - Coverage limits&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Financial protection against vehicle damage, theft, and liability claims&ndash;&gt;-->
+<!--&lt;!&ndash;            - Peace of mind knowing you're covered in case of an accident&ndash;&gt;-->
+<!--&lt;!&ndash;            - Compliance with legal requirements in most jurisdictions&ndash;&gt;-->
+
+<!--&lt;!&ndash;            It's essential to carefully review your motor insurance policy to understand your coverage, deductibles, and exclusions. Additionally, consider shopping around and comparing quotes from different insurance providers to find the best coverage at the most competitive rates.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="home_insurance">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Home insurance, also known as homeowner\'s insurance or property insurance, provides financial protection against damages to a home and its contents. It typically covers damages caused by perils such as fire, theft, vandalism, and natural disasters.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about home insurance:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Types of Coverage:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Dwelling Coverage: Protects the structure of your home, including walls, floors, roof, and built-in appliances.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Personal Property Coverage: Covers belongings inside your home, such as furniture, electronics, clothing, and jewelry.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Liability Coverage: Protects you against lawsuits for bodily injury or property damage caused by you or your family members to others.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Additional Living Expenses (ALE): Pays for temporary housing and living expenses if you\'re unable to live in your home due to covered damages.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Factors Affecting Premiums:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Location and proximity to hazards like flood zones or wildfire-prone areas&ndash;&gt;-->
+<!--&lt;!&ndash;            - Size, age, and construction materials of the home&ndash;&gt;-->
+<!--&lt;!&ndash;            - Value and replacement cost of personal belongings&ndash;&gt;-->
+<!--&lt;!&ndash;            - Deductible amount&ndash;&gt;-->
+<!--&lt;!&ndash;            - Coverage limits and optional endorsements&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Financial protection against property damage, theft, and liability claims&ndash;&gt;-->
+<!--&lt;!&ndash;            - Peace of mind knowing your home and belongings are covered&ndash;&gt;-->
+<!--&lt;!&ndash;            - Compliance with mortgage lender requirements&ndash;&gt;-->
+
+<!--&lt;!&ndash;            It's essential to carefully review your home insurance policy to understand your coverage, deductibles, and exclusions. Additionally, consider periodically reviewing and updating your policy to ensure it reflects changes in your home's value and coverage needs.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="fire_insurance">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Fire insurance provides financial protection against damages caused by fire to property, including buildings, homes, and personal belongings.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about fire insurance:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Types of Coverage:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Dwelling Coverage: Protects the structure of your home or building, including walls, floors, and roof, against fire damage.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Personal Property Coverage: Covers belongings inside your home or building, such as furniture, electronics, and clothing, damaged by fire.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Additional Living Expenses (ALE): Pays for temporary housing and living expenses if you\'re unable to live in your home or building due to fire damage.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Factors Affecting Premiums:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Location and proximity to fire hazards&ndash;&gt;-->
+<!--&lt;!&ndash;            - Size, age, and construction materials of the property&ndash;&gt;-->
+<!--&lt;!&ndash;            - Value and replacement cost of personal belongings&ndash;&gt;-->
+<!--&lt;!&ndash;            - Deductible amount&ndash;&gt;-->
+<!--&lt;!&ndash;            - Coverage limits and optional endorsements&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Financial protection against fire-related property damage and loss&ndash;&gt;-->
+<!--&lt;!&ndash;            - Peace of mind knowing your property and belongings are covered&ndash;&gt;-->
+<!--&lt;!&ndash;            - Compliance with mortgage lender requirements&ndash;&gt;-->
+
+<!--&lt;!&ndash;            It's essential to carefully review your fire insurance policy to understand your coverage, deductibles, and exclusions. Additionally, consider periodically reviewing and updating your policy to ensure it reflects changes in your property's value and coverage needs.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="travel_insurance">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Travel insurance provides financial protection against unexpected events that may occur before or during a trip, such as trip cancellation, medical emergencies, and lost luggage.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about travel insurance:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Types of Coverage:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Trip Cancellation/Interruption: Reimburses non-refundable trip expenses if you have to cancel or cut short your trip due to covered reasons.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Emergency Medical Expenses: Covers medical treatment, hospitalization, and emergency medical evacuation during your trip.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Baggage and Personal Belongings: Provides compensation for lost, stolen, or damaged baggage and personal items during your trip.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Travel Delay and Missed Connections: Reimburses additional expenses incurred due to travel delays or missed connections.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Emergency Assistance Services: Offers 24/7 assistance for medical emergencies, travel arrangements, and other unforeseen situations.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Financial protection against trip-related expenses and emergencies&ndash;&gt;-->
+<!--&lt;!&ndash;            - Peace of mind knowing you're covered in case of unexpected events during your trip&ndash;&gt;-->
+<!--&lt;!&ndash;            - Assistance services to help you navigate emergencies and travel disruptions&ndash;&gt;-->
+
+<!--&lt;!&ndash;            It's essential to carefully review your travel insurance policy to understand your coverage, exclusions, and limitations. Additionally, consider purchasing travel insurance early to take advantage of benefits like trip cancellation coverage.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="property_insurance">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Property insurance provides financial protection against damages to property and possessions caused by perils such as fire, theft, vandalism, and natural disasters.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about property insurance:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Types of Coverage:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Dwelling Coverage: Protects the structure of your home or building, including walls, floors, roof, and built-in appliances, against covered damages.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Personal Property Coverage: Covers belongings inside your home or building, such as furniture, electronics, clothing, and jewelry, damaged by covered perils.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Liability Coverage: Protects you against lawsuits for bodily injury or property damage caused by you or your family members to others.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Factors Affecting Premiums:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Location and proximity to hazards like flood zones or wildfire-prone areas&ndash;&gt;-->
+<!--&lt;!&ndash;            - Size, age, and construction materials of the property&ndash;&gt;-->
+<!--&lt;!&ndash;            - Value and replacement cost of personal belongings&ndash;&gt;-->
+<!--&lt;!&ndash;            - Deductible amount&ndash;&gt;-->
+<!--&lt;!&ndash;            - Coverage limits and optional endorsements&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Financial protection against property damage, theft, and liability claims&ndash;&gt;-->
+<!--&lt;!&ndash;            - Peace of mind knowing your property and belongings are covered&ndash;&gt;-->
+<!--&lt;!&ndash;            - Compliance with mortgage lender requirements&ndash;&gt;-->
+
+<!--&lt;!&ndash;            It's essential to carefully review your property insurance policy to understand your coverage, deductibles, and exclusions. Additionally, consider periodically reviewing and updating your policy to ensure it reflects changes in your property's value and coverage needs.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="term_life_insurance">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Term life insurance provides coverage for a specific period, known as the term. If the insured dies during the term, the death benefit is paid out to the beneficiaries. It\'s a straightforward and affordable way to ensure financial protection for loved ones during critical years.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about term life insurance:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Coverage Period:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Term lengths typically range from 10 to 30 years.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Premiums remain level for the duration of the term.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Provides financial protection for dependents in case of the insured's death.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Affordable premiums make it accessible for individuals with varying budgets.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Can be converted to permanent life insurance in some cases.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Considerations:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Coverage ends at the end of the term, and there is no cash value accumulation.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Premiums may increase if the policy is renewed after the initial term expires.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Ideal for individuals seeking temporary coverage for specific financial obligations, such as mortgage payments or children's education expenses.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="whole_life_insurance">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Whole life insurance provides coverage for the insured\'s entire life, offering permanent protection and cash value accumulation over time. Premiums remain level throughout the policyholder\'s lifetime, providing stability and long-term financial security.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about whole life insurance:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Features:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Coverage lasts for the insured\'s lifetime, as long as premiums are paid.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Premiums remain level and do not increase with age.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Cash value accumulates over time, providing a source of tax-deferred savings.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Provides permanent financial protection for dependents and beneficiaries.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Cash value can be accessed through policy loans or withdrawals for various financial needs.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Guaranteed death benefit ensures beneficiaries receive a payout upon the insured's death.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Considerations:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Premiums are typically higher than term life insurance due to the lifelong coverage and cash value component.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Requires a long-term commitment, making it less flexible than term life insurance.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Ideal for individuals seeking lifelong coverage and cash value accumulation for estate planning or legacy purposes.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="endowment_plans">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Endowment plans offer a combination of life insurance protection and savings or investment features. These plans provide a death benefit to beneficiaries in case of the insured\'s death or a maturity benefit if the policyholder survives the policy term.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about endowment plans:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Features:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Combines life insurance coverage with a savings or investment component.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Offers a lump sum payout to beneficiaries upon the insured\'s death or maturity benefit upon policy maturity.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Premiums may be higher than term life insurance but lower than whole life insurance.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Provides financial protection for dependents in case of the insured's death.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Builds cash value over time, offering a source of savings or investment growth.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Offers flexibility in policy customization, with options to adjust coverage and premiums.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Considerations:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Maturity benefits may be subject to market performance and investment returns.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Policyholders may incur surrender charges or penalties for early policy termination.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Ideal for individuals seeking both life insurance coverage and long-term savings or investment opportunities.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="unit_linked_insurance">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Unit-linked insurance plans (ULIPs) combine life insurance coverage with investment options in a single integrated product. Policyholders have the flexibility to allocate premiums among different investment funds, such as equity, debt, or balanced funds, based on their risk tolerance and financial goals.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about unit-linked insurance:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Features:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Offers life insurance protection along with investment opportunities in capital markets.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Policyholders can choose from a range of investment funds based on their risk appetite and investment objectives.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Provides transparency and flexibility in fund allocation and portfolio management.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Provides financial protection for dependents in case of the insured's death.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Offers potential for higher returns compared to traditional life insurance products.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Allows policyholders to switch between investment funds or alter asset allocation based on market conditions.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Considerations:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Investment returns and policy performance are subject to market fluctuations and investment risks.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Policy charges and fees may impact the overall returns on investment.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Ideal for individuals seeking life insurance coverage combined with investment exposure and wealth accumulation opportunities.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="child_plans">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Child insurance plans are designed to secure a child\'s future by providing financial protection and meeting long-term goals such as education expenses, marriage, or starting a career. These plans offer a combination of life insurance coverage and savings or investment features tailored to the child\'s needs.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about child insurance plans:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Features:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Provides life insurance coverage for the child, ensuring financial protection in case of the parent\'s death.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Offers a savings or investment component to accumulate funds for the child\'s future needs.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Allows flexible premium payment options and policy customization to suit individual preferences.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Provides financial security for the child's education, marriage, or other life milestones.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Builds a corpus over time through regular premiums and investment growth, offering a source of funding for future expenses.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Offers tax benefits on premiums paid and maturity proceeds under applicable tax laws.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Considerations:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Policyholders should carefully review policy terms, coverage, and investment options to align with long-term goals.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Premiums and benefits may vary based on the chosen plan and insurer's terms and conditions.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Ideal for parents or guardians looking to secure their child's future and provide financial stability for life events.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="pension_plans">&ndash;&gt;-->
+<!--&lt;!&ndash;        &ndash;&gt;-->
+<!--&lt;!&ndash;            Pension plans, also known as retirement plans or annuities, are financial products designed to provide a regular income stream during retirement years. These plans help individuals accumulate funds over their working years and convert them into a steady income source after retirement.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Here are some key points about pension plans:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Features:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Allows individuals to contribute regularly towards a retirement corpus during their working years.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Offers various investment options to grow retirement savings, including equity, debt, and balanced funds.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Provides flexibility in choosing the retirement age, payout options, and frequency of income payments.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Benefits:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Ensures financial security and stability during retirement by providing a regular income stream.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Helps individuals maintain their standard of living and cover living expenses without relying solely on savings or social security benefits.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Offers tax benefits on contributions and tax-deferred growth of retirement savings until withdrawal.&ndash;&gt;-->
+
+<!--&lt;!&ndash;            Considerations:&ndash;&gt;-->
+
+<!--&lt;!&ndash;            - Individuals should start planning for retirement early to maximize savings and enjoy the benefits of compounding.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Pension plan selection should consider factors such as risk tolerance, investment objectives, and retirement goals.&ndash;&gt;-->
+<!--&lt;!&ndash;            - Ideal for individuals seeking to build a retirement corpus and secure their financial future beyond their working years.&ndash;&gt;-->
+<!--&lt;!&ndash;           &ndash;&gt;-->
+<!--&lt;!&ndash;        </item>&ndash;&gt;-->
+<!--    </string-array>-->
+</resources>
